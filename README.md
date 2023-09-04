@@ -1,5 +1,5 @@
 ## About us
-Our team(caybaras) started off as participants in an Al Chatbot Programming with ChatGPT-like technologies Hackathon organised by our faculty SCSE, and harnessed Nemobot's potential to work on Tour Guide Bot. Emerged as the outstanding best entry, our Professor nominated us to be part of iAIM 2023 to showcase our ideas. We further polished our prototype and developed Med Bot. 
+Our team(caybaras) started off as participants in an Al Chatbot Programming with ChatGPT-like technologies Hackathon organised by our faculty SCSE, and harnessed Nemobot's potential to work on Tour Guide Bot. Emerged as the outstanding best entry, our Professor nominated us to be part of iAIM 2023 to showcase and share our ideas. Thus, we further polished our current prototype and developed Med Bot. 
 
 
 ## Nemobot Platform
