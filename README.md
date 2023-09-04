@@ -27,4 +27,4 @@ Our team(caybaras) started off as participants in an Al Chatbot Programming with
 
 ## Try out our code! 
 - Please create and input your own OpenAI API key into settings, upload the respective code files in the sub folders  and start the playground!
-- Sample API Key which you can use to test the platform out :   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
+- Sample API Key which you can use to test the platform out : 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
