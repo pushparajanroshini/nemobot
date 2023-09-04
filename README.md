@@ -8,3 +8,4 @@ Al Chatbot Programming with ChatGPT·like technologies Hackathon 2023
 
 ## Try out our code! 
 - Please create and input your own OpenAI API key into settings, input the code file and start the playground!
+- Sample API Key which you can use to test the platform out : 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
