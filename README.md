@@ -3,7 +3,7 @@ Our team(caybaras) started off as participants in an Al Chatbot Programming with
 
 
 ## Nemobot Platform
-- <br> Exploration of Large Language Model (LLM) technologies to solve real-world problems using prompt engineering
+- Exploration of Large Language Model (LLM) technologies to solve real-world problems using prompt engineering
 - Dynamic prompt engineering as well as embedded human-written code
 - Seamlessly integrates OpenAI's API,incorporating advanced features without complex coding (Eg. external tools) 
 - Website : https://nemobot-neue-experiment.vercel.app/playground/new
