@@ -27,5 +27,4 @@ Our team(caybaras) started off as participants in an Al Chatbot Programming with
 
 ## Try out our code! 
 - Please create and input your own OpenAI API key into settings, upload the respective code files in the sub folders  and start the playground!
-- Sample API Key which you can use to test the platform out : sk7IAKCkdHLPxbKcNzoqZIT3BlbkFJOtfPCSWNtLhFQS3OllsR
 - Do download the codes(raw file) in the other repositories and upload them in the Nemobot platform to play along with the chatbot
